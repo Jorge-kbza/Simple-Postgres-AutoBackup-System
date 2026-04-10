@@ -8,7 +8,7 @@ Genera copias periódicas, las guarda localmente y las sincroniza con Google Dri
 ## 🚀 Características
 
 - Backups automáticos con `pg_dump + gzip`
-- Ejecución cada 10 minutos (cron)
+- Ejecución cada 30 minutos (cron)
 - Retención local: últimos 7 backups
 - Sincronización a Google Drive con rclone
 - Retención remota: últimos 7 días
